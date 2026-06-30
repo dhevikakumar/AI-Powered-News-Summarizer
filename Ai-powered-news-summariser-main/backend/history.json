@@ -1,0 +1,132 @@
+{
+  "abcd": [
+    {
+      "id": 3,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-24T10:52:01.446783"
+    },
+    {
+      "id": 2,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data. The most commonly used techniques include:\r\n\r\nNeural Networks\r\n\r\nProbabilistic Models\r\n\r\nDeep Learning architectures\r\n\r\nKey Generative AI Models\r\n1. These models are highly effective for language generation tasks. Future Scope of Generative AI\r\n\r\nGenerative AI is expected to play a major role in future technologies such as:\r\n\r\nVirtual reality and metaverse\r\n\r\nHuman-AI collaboration\r\n\r\nIntelligent automation\r\n\r\nAdvanced creative industries\r\n\r\nConclusion\r\n\r\nGenerative AI represents a significant advancement in Artificial Intelligence, enabling machines to generate original and meaningful content.",
+      "original_length": 3190,
+      "summary_length": 1156,
+      "num_sentences": 6,
+      "created_at": "2026-01-24T10:51:15.103549"
+    },
+    {
+      "id": 1,
+      "original_text": "Deep Learning is a subfield of Artificial Intelligence (AI) and Machine Learning (ML) that focuses on building models inspired by the human brain, called Artificial Neural Networks (ANNs). These models automatically learn complex patterns from large amounts of data by using multiple processing layers, hence the term \u201cdeep\u201d learning.\n\nHow Deep Learning Works\n\nDeep learning models consist of:\n\nInput Layer \u2013 receives raw data such as images, text, or numbers\n\nHidden Layers \u2013 multiple layers that ex...",
+      "summary": "Deep Learning is a subfield of Artificial Intelligence (AI) and Machine Learning (ML) that focuses on building models inspired by the human brain, called Artificial Neural Networks (ANNs). These models automatically learn complex patterns from large amounts of data by using multiple processing layers, hence the term \u201cdeep\u201d learning. How Deep Learning Works\n\nDeep learning models consist of:\n\nInput Layer \u2013 receives raw data such as images, text, or numbers\n\nHidden Layers \u2013 multiple layers that extract features and patterns\n\nOutput Layer \u2013 produces the final prediction or result\n\nEach neuron performs a weighted sum of inputs followed by an activation function.",
+      "original_length": 2102,
+      "summary_length": 665,
+      "num_sentences": 3,
+      "created_at": "2026-01-24T10:43:44.752701"
+    }
+  ],
+  "Abcdef": [
+    {
+      "id": 11,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-26T08:28:43.460258"
+    },
+    {
+      "id": 10,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T16:03:02.674678"
+    },
+    {
+      "id": 9,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T15:57:07.158446"
+    },
+    {
+      "id": 8,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T15:54:34.214359"
+    },
+    {
+      "id": 7,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T15:52:26.360364"
+    },
+    {
+      "id": 6,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T15:52:04.916954"
+    },
+    {
+      "id": 5,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T15:47:25.591622"
+    },
+    {
+      "id": 4,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T15:41:56.818394"
+    },
+    {
+      "id": 3,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T15:35:15.272606"
+    },
+    {
+      "id": 2,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data. The most commonly used techniques include:\r\n\r\nNeural Networks\r\n\r\nProbabilistic Models\r\n\r\nDeep Learning architectures\r\n\r\nKey Generative AI Models\r\n1. Generative Adversarial Networks (GANs)\r\n\r\nGANs consist of two neural networks:\r\n\r\nGenerator \u2013 creates new data\r\n\r\nDiscriminator \u2013 evaluates whether the data is real or fake\r\nBoth networks compete with each other, improving the quality of generated content. Transformer Models\r\n\r\nTransformer-based models such as GPT use attention mechanisms to generate human-like text. These models are highly effective for language generation tasks. Future Scope of Generative AI\r\n\r\nGenerative AI is expected to play a major role in future technologies such as:\r\n\r\nVirtual reality and metaverse\r\n\r\nHuman-AI collaboration\r\n\r\nIntelligent automation\r\n\r\nAdvanced creative industries\r\n\r\nConclusion\r\n\r\nGenerative AI represents a significant advancement in Artificial Intelligence, enabling machines to generate original and meaningful content.",
+      "original_length": 3190,
+      "summary_length": 1526,
+      "num_sentences": 8,
+      "created_at": "2026-01-25T14:07:02.290853"
+    },
+    {
+      "id": 1,
+      "original_text": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content.\r\n\r\nHow Generative AI Works\r\n\r\nGenerative AI works by ...",
+      "summary": "Generative Artificial Intelligence (Generative AI)\r\nIntroduction\r\n\r\nGenerative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that focuses on creating new content such as text, images, audio, video, and code. Unlike traditional AI systems that only analyze or classify existing data, Generative AI models learn patterns from large datasets and generate original outputs that closely resemble human-created content. How Generative AI Works\r\n\r\nGenerative AI works by training deep learning models on massive amounts of data.",
+      "original_length": 3190,
+      "summary_length": 554,
+      "num_sentences": 3,
+      "created_at": "2026-01-25T14:06:58.083875"
+    }
+  ]
+}
