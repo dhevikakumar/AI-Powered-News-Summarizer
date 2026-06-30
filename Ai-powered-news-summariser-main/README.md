@@ -1,5 +1,5 @@
-The AI Notes Summariser is a professional-grade personal knowledge assistant designed to condense dense information from text and documents into concise summaries, while automatically generating interactive study materials.
+AI-Powered News Summarizer
 
-The platform uses advanced Natural Language Processing (NLP) to extract the most relevant sentences from lengthy content, intelligently identifies key concepts to generate interactive Q&A flashcards, and extracting essential keywords for better content categorization.
+An AI-driven news aggregation platform that helps competitive exam aspirants by collecting, classifying, and summarizing current affairs based on exam syllabi. Using AI and NLP, it generates concise summaries, categorizes news into subjects like Polity, Economy, Science & Technology, Environment, and International Relations, and maps articles to previous exam questions for better understanding.
 
-From a technical perspective, it features a FastAPI backend using NLTK for core logic, and a modern React-based frontend dashboard with real-time statistics, file upload support, and a secure JWT authentication system with persistent history tracking.
+Built with React, Node.js, and MongoDB, the platform features secure authentication, real-time news updates, personalized recommendations, text-to-speech support, and offline caching to provide an efficient and structured learning experience.
